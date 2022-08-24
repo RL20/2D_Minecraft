@@ -1,4 +1,4 @@
-# 2D_Minecraft_Project
+# 2D_Minecraft
 
 <!-- <img style="left:0" src="./screenshots/../docs/screenshots/game-1.1s-200px.png" width="70px" heigh="50px"> -->
 
