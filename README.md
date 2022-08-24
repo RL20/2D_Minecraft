@@ -26,7 +26,7 @@
 ![Game Page](./docs/screenshots/mt2.PNG)
 
 ### Video and 
-You can see the steps of the game here ↓
+**You can see the steps of the game here ↓**
 
 
 
