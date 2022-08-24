@@ -4,7 +4,7 @@
 
 <!-- You can **[Play](https://mystifying-wozniak-8ef33e.netlify.app/)** it -->
 
-<a href="https://mystifying-wozniak-8ef33e.netlify.app/" target="_blank"> <img style="left:0" src="./screenshots/../docs/screenshots/game-1.1s-200px.png" width="100px" heigh="100px"> </a>
+<a href="[https://mystifying-wozniak-8ef33e.netlify.app/](https://2d-minecraft-game.netlify.app/)" target="_blank"> <img style="left:0" src="./screenshots/../docs/screenshots/game-1.1s-200px.png" width="100px" heigh="100px"> </a>
 
 ### **Design**
 
