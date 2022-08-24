@@ -25,6 +25,15 @@
 
 ![Game Page](./docs/screenshots/mt2.PNG)
 
+### Video and 
+You can see the steps of the game here ↓
+
+
+
+https://user-images.githubusercontent.com/51479993/186452417-132d3288-3b42-4deb-9468-20a77aa7da4e.mp4
+
+
+
 <!--
 ### Aux
 
